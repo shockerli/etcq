@@ -26,13 +26,13 @@ ETCD(v3) Cross-platform GUI Client
 - Linux AMD64/ARM64
 
 ### Downloads
-- [macOS-universal](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-universal.dmg)
-- [macOS-amd64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-amd64.dmg)
-- [macOS-arm64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-arm64.dmg)
-- [Windows-amd64-installer](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-amd64-installer.exe)
-- [Windows-amd64-portable](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-amd64-portable.exe)
-- [Windows-arm64-installer](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-arm64-installer.exe)
-- [Windows-arm64-portable](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-arm64-portable.exe)
+- [macOS-universal](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-macos-universal.dmg)
+- [macOS-amd64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-macos-amd64.dmg)
+- [macOS-arm64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-macos-arm64.dmg)
+- [Windows-amd64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-windows-amd64-installer.exe)
+- [Windows-amd64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-windows-amd64-portable.exe)
+- [Windows-arm64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-windows-arm64-installer.exe)
+- [Windows-arm64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.1-windows-arm64-portable.exe)
 - Linux: comming soon
 
 Other packages please see the [releases](https://github.com/shockerli/etcq/releases) page.
@@ -92,6 +92,10 @@ Other packages please see the [releases](https://github.com/shockerli/etcq/relea
 - Service Quick Switch
 
     ![ETCQ-Quick-Switch](assets/etcq-quick-switch.png)
+
+- Windows/Linux Style
+
+    ![Windows/Linux-Style](assets/etcq-windows-style.png)
 
 
 ## Author
