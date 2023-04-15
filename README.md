@@ -18,11 +18,22 @@ ETCD(v3) Cross-platform GUI Client
 
 
 ## Installation
-- [macOS-universal](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-universal.dmg)
-- [macOS-amd64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-amd64.dmg)
-- [macOS-arm64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-arm64.dmg)
-- Linux: Comming soon
-- Windows: Comming soon
+
+### Requirements
+- MacOS 10.13+ AMD64
+- MacOS 11.0+ ARM64
+- Windows 10/11 AMD64/ARM64
+- Linux AMD64/ARM64
+
+### Downloads
+- [macOS-universal](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-universal.dmg)
+- [macOS-amd64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-amd64.dmg)
+- [macOS-arm64](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-macos-arm64.dmg)
+- [Windows-amd64-installer](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-amd64-installer.exe)
+- [Windows-amd64-portable](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-amd64-portable.exe)
+- [Windows-arm64-installer](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-arm64-installer.exe)
+- [Windows-arm64-portable](https://github.com/shockerli/etcq/releases/download/1.2.0/etcq-1.2.0-windows-arm64-portable.exe)
+- Linux: comming soon
 
 Other packages please see the [releases](https://github.com/shockerli/etcq/releases) page.
 
