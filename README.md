@@ -51,7 +51,7 @@ Other packages please see the [releases](https://github.com/shockerli/etcq/relea
 
 - Key List
 
-    ![ETCQ-Key-List](assets/etcq-key-list.png)ing-https.png)
+    ![ETCQ-Key-List](assets/etcq-key-list.png)
 
 - Key Detail
 
