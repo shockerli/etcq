@@ -26,13 +26,13 @@ ETCD(v3) Cross-platform GUI Client
 - Linux AMD64/ARM64
 
 ### Downloads
-- [macOS-universal](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-darwin-universal.dmg)
-- [macOS-amd64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-darwin-amd64.dmg)
-- [macOS-arm64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-darwin-arm64.dmg)
-- [Windows-amd64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-windows-amd64-installer.exe)
-- [Windows-amd64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-windows-amd64-portable.exe)
-- [Windows-arm64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-windows-arm64-installer.exe)
-- [Windows-arm64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-windows-arm64-portable.exe)
+- [macOS-universal](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-darwin-universal.dmg)
+- [macOS-amd64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-darwin-amd64.dmg)
+- [macOS-arm64](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-darwin-arm64.dmg)
+- [Windows-amd64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-windows-amd64-installer.exe)
+- [Windows-amd64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-windows-amd64-portable.exe)
+- [Windows-arm64-installer](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-windows-arm64-installer.exe)
+- [Windows-arm64-portable](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.4-windows-arm64-portable.exe)
 - [Linux-arm64-deb](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-linux-arm64.deb)
 - [Linux-arm64-rpm](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-linux-arm64.rpm)
 - [Linux-arm64-bin](https://github.com/shockerli/etcq/releases/latest/download/etcq-1.2.3-linux-arm64.tar.gz)
